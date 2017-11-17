@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyListApplication</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Filter by name</string>
+    <string name="error_no_item">An item was not found.  Please try again.</string>
+    <string name="error_no_extra_item_arg">Provide intent.putExtra(ItemDetailActivity.ARGS_ITEM, item) when starting startActivity of\u0020</string>
+    <string name="error_no_onitemlistener_class">\u0020must implemenet ProductListAdapter.OnItemListener</string>
+    <string name="error_network">There was a network error:\u0020</string>
+    <string name="error_connection">Please check your internet connectivity</string>
+</resources>
